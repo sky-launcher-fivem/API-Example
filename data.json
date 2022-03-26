@@ -1,5 +1,5 @@
-{ "maintenance": "online", 
- "maintenancetext": "In Development",
+{ "maintenance": "offline", 
+ "maintenancetext": "In Development text",
  "version":"1.0.0.0",
  "support":"https://discord.gg/test",
  "name":"Sky Launcher",
